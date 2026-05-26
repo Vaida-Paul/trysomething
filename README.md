@@ -18,17 +18,17 @@
 
 ---
 
-## ✨ About Echo
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/0974577f-57a4-4806-8f3c-be0ee71a4a03" /> About Echo
 
 **Echo** is a full‑stack real‑time communication platform that combines modern messaging with high‑quality video calls. It's built as a **Progressive Web App (PWA)**, so you can install it on your phone or desktop and use it like a native app.
 
 The goal was to create a seamless, beautiful, and fast experience – from typing indicators and read receipts to crystal‑clear WebRTC calls with screen sharing.
 
-📱 **Live demo:** [https://echo-chat-application-proj.netlify.app/](https://echo-chat-application-proj.netlify.app/)
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/92048ca5-44f2-480f-9143-f024acd4e435" /> **Live demo:** [https://echo-chat-application-proj.netlify.app/](https://echo-chat-application-proj.netlify.app/)
 
 ---
 
-## 🎯 Key Features
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/1b2ba47f-c057-4676-988d-1f7d9fda994d" /> Key Features
 
 | Category | Features |
 |----------|----------|
@@ -41,7 +41,7 @@ The goal was to create a seamless, beautiful, and fast experience – from typin
 
 ---
 
-## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/77cfa530-ad7f-4656-948a-942a8f97e560" />Tech Stack
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/77cfa530-ad7f-4656-948a-942a8f97e560" /> Tech Stack
 
 ### Frontend
 - **React 18** + **TypeScript** – type‑safe UI
