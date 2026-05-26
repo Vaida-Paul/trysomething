@@ -79,3 +79,86 @@ The goal was to create a seamless, beautiful, and fast experience – from typin
 ```bash
 git clone https://github.com/Vaida-Paul/chat-app.git
 cd chat-app
+
+### 2. Backend Setup
+```bash
+cd backend-chat-app
+```
+
+Create an `application.properties` file (or set environment variables) with the following keys:
+
+```properties
+spring.datasource.url=jdbc:postgresql://localhost:5432/echodb
+spring.datasource.username=postgres
+spring.datasource.password=yourpassword
+
+jwt.secret=your_jwt_secret
+cloudinary.cloud-name=your_cloud_name
+cloudinary.api-key=your_api_key
+cloudinary.api-secret=your_api_secret
+
+mail.username=your_email@gmail.com
+mail.password=your_app_password
+
+frontend.url=http://localhost:3000
+```
+
+Run the backend application:
+```bash
+./mvnw spring-boot:run
+```
+
+---
+
+### 3. Frontend Setup
+```bash
+cd ../frontend-chat-app
+npm install
+```
+
+Create a `.env` file in the root of the frontend directory:
+
+```env
+VITE_API_URL=http://localhost:8080/api
+VITE_TURNSTILE_SITEKEY=your_turnstile_site_key
+```
+
+Start the local development server:
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to register and start chatting!
+
+---
+
+## 📦 Deployment
+
+### Backend (Render)
+* **Environment:** Use the Docker environment (auto‑detected).
+* **Root directory:** `backend-chat-app`
+* **Environment variables:** Set the same variables as above, plus:
+  * `FRONTEND_URL` → Your Netlify URL (e.g., `https://echo-chat-application-proj.netlify.app`)
+
+*Render builds and deploys automatically from your GitHub repository.*
+
+---
+
+### Frontend (Netlify)
+1. Connect your GitHub repository.
+2. Configure the following build settings:
+   * **Base directory:** `frontend-chat-app`
+   * **Build command:** `npm run build`
+   * **Publish directory:** `dist`
+
+3. Set the following environment variables:
+   * `VITE_API_URL` → Your Render backend URL (e.g., `https://your-backend.onrender.com/api`)
+   * `VITE_TURNSTILE_SITEKEY` → Your Turnstile site key.
+
+---
+
+### Database (Neon)
+* Create a PostgreSQL database on Neon.
+* Use the pooled connection string as `DB_URL` (or `spring.datasource.url`) in the backend environment.
+* *Note: The backend automatically runs migrations on startup.*
+
