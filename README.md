@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/your-logo.png" width="120" alt="Echo Logo"/>
+  <img src="https://res.cloudinary.com/dxy7irilx/image/upload/v1776375873/LogoClodinary_ucwnez.png" width="120" alt="Echo Logo"/>
   <h1>Echo – Real‑time Chat & Video Call App</h1>
   <p><strong>Instant messaging • HD video calls • PWA • 12 themes • 10+ fonts</strong></p>
   <p>
