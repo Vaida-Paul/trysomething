@@ -41,8 +41,7 @@ The goal was to create a seamless, beautiful, and fast experience – from typin
 
 ---
 
-## <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/77cfa530-ad7f-4656-948a-942a8f97e560" />
-Tech Stack
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/77cfa530-ad7f-4656-948a-942a8f97e560" />Tech Stack
 
 ### Frontend
 - **React 18** + **TypeScript** – type‑safe UI
