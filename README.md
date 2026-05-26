@@ -32,12 +32,12 @@ The goal was to create a seamless, beautiful, and fast experience – from typin
 
 | Category | Features |
 |----------|----------|
-| 💬 **Messaging** | Real‑time text, typing indicators, online presence, read & delivery receipts, delete for everyone, image sharing |
-| 📹 **Calls** | HD video/audio calls, screen sharing, picture‑in‑picture mode, mute/unmute, toggle camera |
-| 🎨 **Personalisation** | 12 beautiful themes (Midnight, Galaxy, Arctic, Ember…), 10+ custom fonts (Quicksand, Pacifico, Orbitron…), profile picture upload |
-| 🔐 **Security** | JWT authentication, email verification, password reset, block users |
-| 📱 **PWA** | Installable on any device, works offline (cached assets), push notifications |
-| ⚡ **Tech** | WebSockets (STOMP) for real‑time events, WebRTC for peer‑to‑peer media |
+| **Messaging** | Real‑time text, typing indicators, online presence, read & delivery receipts, delete for everyone, image sharing |
+| **Calls** | HD video/audio calls, screen sharing, picture‑in‑picture mode, mute/unmute, toggle camera |
+| **Personalisation** | 12 beautiful themes (Midnight, Galaxy, Arctic, Ember…), 10+ custom fonts (Quicksand, Pacifico, Orbitron…), profile picture upload |
+| **Security** | JWT authentication, email verification, password reset, block users |
+| **PWA** | Installable on any device, works offline (cached assets), push notifications |
+| **Tech** | WebSockets (STOMP) for real‑time events, WebRTC for peer‑to‑peer media |
 
 ---
 
