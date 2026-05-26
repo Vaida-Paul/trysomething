@@ -201,7 +201,7 @@ See [LICENSE](LICENSE) for details.
 ---
 
 <div align="center"> 
-  <sub>Built with 💙 by Paul – <a href="https://github.com/Vaida-Paul">@Vaida-Paul</a></sub> 
+  <sub>Built by Vaida-Paul – <a href="https://github.com/Vaida-Paul">@Vaida-Paul</a></sub> 
 </div>
 
 
