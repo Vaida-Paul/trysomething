@@ -174,7 +174,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to register 
 
 ---
 
-## 🤝 Contributing
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/baf82ec3-f9a5-48e4-81a0-9fbe35557447" /> Contributing
 
 This is a personal portfolio project, but issues and suggestions are very welcome! Feel free to open an issue or submit a pull request.
 
@@ -187,7 +187,7 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙏 Acknowledgements
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/bed6cd4a-ffe4-4f4a-a1a1-ac69571795b3" /> Acknowledgements
 
 * **Cloudinary** – Image hosting & transformations
 * **Render** – Backend hosting (free tier)
