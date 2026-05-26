@@ -41,7 +41,7 @@ The goal was to create a seamless, beautiful, and fast experience – from typin
 
 ---
 
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/77cfa530-ad7f-4656-948a-942a8f97e560" />
+## <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/77cfa530-ad7f-4656-948a-942a8f97e560" />
 Tech Stack
 
 ### Frontend
