@@ -180,7 +180,7 @@ This is a personal portfolio project, but issues and suggestions are very welcom
 
 ---
 
-## 📄 License
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/52a0c9d4-4dd9-4803-8fa7-45b62632cd9f" /> License
 
 MIT © **Vaida-Paul**
 See [LICENSE](LICENSE) for details.
