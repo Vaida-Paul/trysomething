@@ -132,7 +132,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to register 
 
 ---
 
-## 📦 Deployment
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/f6680cc0-c67d-403e-a954-05cc5df17db6" /> Deployment
 
 ### Backend (Render)
 * **Environment:** Use the Docker environment (auto‑detected).
@@ -161,7 +161,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to register 
 * Create a PostgreSQL database on Neon.
 * Use the pooled connection string as `DB_URL` (or `spring.datasource.url`) in the backend environment.
 * *Note: The backend automatically runs migrations on startup.*
-## 📸 Screenshots
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/05e17cd6-96ce-4544-a5b8-653ad8b2e1a3" /> Screenshots
 
 
 | Home | Chat | Video Call |
@@ -171,8 +171,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to register 
 | Themes | Fonts | Settings |
 | :---: | :---: | :---: |
 | ![12 Themes](https://via.placeholder.com/300x200?text=12+Themes) | ![10 Fonts](https://via.placeholder.com/300x200?text=10+Fonts) | ![Settings](https://via.placeholder.com/300x200?text=Settings) |
-
-> 💡 *Replace these placeholders with actual screenshots from your app.*
 
 ---
 
