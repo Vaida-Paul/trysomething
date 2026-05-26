@@ -71,9 +71,9 @@ The goal was to create a seamless, beautiful, and fast experience – from typin
 ## 🚀 Getting Started (Local Development)
 
 ### Prerequisites
-- Node.js 18+
-- Java 17+
-- PostgreSQL (or a Neon cloud account)
+- <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/c9bbc360-7136-485e-9169-011d141474c3" /> Node.js 18+
+- <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/ec4b0bc6-455c-44c3-b845-3a8179abeb5e" /> Java 17+
+- <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/9460ea50-3072-45ef-a9d2-5d71ffefa3d4" /> PostgreSQL (or a Neon cloud account)
 
 ### 1. Clone the repository
 ```bash
