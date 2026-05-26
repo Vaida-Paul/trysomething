@@ -68,7 +68,7 @@ The goal was to create a seamless, beautiful, and fast experience – from typin
 
 ---
 
-## 🚀 Getting Started (Local Development)
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/1d6628e5-019e-44c0-bd48-2f414588de59" /> Getting Started (Local Development)
 
 ### Prerequisites
 - <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/c9bbc360-7136-485e-9169-011d141474c3" /> Node.js 18+
@@ -161,4 +161,47 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to register 
 * Create a PostgreSQL database on Neon.
 * Use the pooled connection string as `DB_URL` (or `spring.datasource.url`) in the backend environment.
 * *Note: The backend automatically runs migrations on startup.*
+## 📸 Screenshots
+
+
+| Home | Chat | Video Call |
+| :---: | :---: | :---: |
+| ![Home Page](https://via.placeholder.com/300x200?text=Home+Page) | ![Chat View](https://via.placeholder.com/300x200?text=Chat+View) | ![Video Call](https://via.placeholder.com/300x200?text=Video+Call) |
+
+| Themes | Fonts | Settings |
+| :---: | :---: | :---: |
+| ![12 Themes](https://via.placeholder.com/300x200?text=12+Themes) | ![10 Fonts](https://via.placeholder.com/300x200?text=10+Fonts) | ![Settings](https://via.placeholder.com/300x200?text=Settings) |
+
+> 💡 *Replace these placeholders with actual screenshots from your app.*
+
+---
+
+## 🤝 Contributing
+
+This is a personal portfolio project, but issues and suggestions are very welcome! Feel free to open an issue or submit a pull request.
+
+---
+
+## 📄 License
+
+MIT © **Vaida-Paul**
+See [LICENSE](LICENSE) for details.
+
+---
+
+## 🙏 Acknowledgements
+
+* **Cloudinary** – Image hosting & transformations
+* **Render** – Backend hosting (free tier)
+* **Netlify** – Frontend hosting (free tier)
+* **Neon** – PostgreSQL database
+* **Google Fonts** – Free typefaces
+* **React Icons** – Icon library
+
+---
+
+<div align="center"> 
+  <sub>Built with 💙 by Paul – <a href="https://github.com/Vaida-Paul">@Vaida-Paul</a></sub> 
+</div>
+
 
