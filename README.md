@@ -79,7 +79,7 @@ The goal was to create a seamless, beautiful, and fast experience – from typin
 ```bash
 git clone https://github.com/Vaida-Paul/chat-app.git
 cd chat-app
-
+```
 ### 2. Backend Setup
 ```bash
 cd backend-chat-app
