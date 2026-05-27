@@ -5,7 +5,7 @@
   <p>
     <a href="https://echo-chat-application-proj.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-echo_chat-7c6af7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
     <a href="https://github.com/Vaida-Paul/chat-app"><img src="https://img.shields.io/github/stars/Vaida-Paul/chat-app?style=for-the-badge&color=ffb86b" alt="GitHub stars"/></a>
-    <a href="https://github.com/Vaida-Paul/chat-app/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Vaida-Paul/chat-app?style=for-the-badge&color=50fa7b" alt="License"/></a>
+    <a href="https://github.com/Vaida-Paul/trysomething/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Vaida-Paul/chat-app?style=for-the-badge&color=50fa7b" alt="License"/></a>
   </p>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
