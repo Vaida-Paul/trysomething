@@ -88,19 +88,35 @@ cd backend-chat-app
 Create an `application.properties` file (or set environment variables) with the following keys:
 
 ```properties
-spring.datasource.url=jdbc:postgresql://localhost:5432/echodb
-spring.datasource.username=postgres
-spring.datasource.password=yourpassword
+spring.application.name=chat-app-backend
 
-jwt.secret=your_jwt_secret
-cloudinary.cloud-name=your_cloud_name
-cloudinary.api-key=your_api_key
-cloudinary.api-secret=your_api_secret
+spring.datasource.url=${DB_URL}
+spring.datasource.username=${DB_USERNAME}
+spring.datasource.password=${DB_PASSWORD}
 
-mail.username=your_email@gmail.com
-mail.password=your_app_password
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.properties.hibernate.format_sql=true
 
-frontend.url=http://localhost:3000
+jwt.secret=${JWT_SECRET}
+jwt.expiration=${JWT_EXPIRATION}
+
+logging.level.org.springframework.security=DEBUG
+
+turnstile.secret=${JWT_TURNSTILE_SECRET}
+turnstile.verify-url=https://challenges.cloudflare.com/turnstile/v0/siteverify
+
+cloudinary.cloud-name=${CLOUDINARY_CLOUD_NAME}
+cloudinary.api-key=${CLOUDINARY_API_KEY}
+cloudinary.api-secret=${CLOUDINARY_API_SECRET}
+
+spring.servlet.multipart.max-file-size=5MB
+spring.servlet.multipart.max-request-size=5MB
+
+brevo.api-key=${BREVO_API_KEY}
+app.logo-url=https://res.cloudinary.com/dxy7irilx/image/upload/v1776375873/LogoClodinary_ucwnez.png
+app.frontend-url=${FRONTEND_URL}
 ```
 
 Run the backend application:
