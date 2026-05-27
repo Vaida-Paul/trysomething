@@ -180,9 +180,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to register 
 ## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/05e17cd6-96ce-4544-a5b8-653ad8b2e1a3" /> Screenshots
 
 
-| Home | Chat | Video Call |
+| Loading | Chat | Video Call |
 | :---: | :---: | :---: |
-| ![Home Page](https://via.placeholder.com/300x200?text=Home+Page) | ![Chat View](https://via.placeholder.com/300x200?text=Chat+View) | ![Video Call](https://via.placeholder.com/300x200?text=Video+Call) |
+| ![Home Page](https://github.com/Vaida-Paul/trysomething/blob/main/Gifs/loading_auth_page.gif) | ![Chat View](https://via.placeholder.com/300x200?text=Chat+View) | ![Video Call](https://via.placeholder.com/300x200?text=Video+Call) |
 
 | Themes | Fonts | Settings |
 | :---: | :---: | :---: |
