@@ -182,7 +182,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to register 
 
 | Loading | Chat | Video Call |
 | :---: | :---: | :---: |
-| ![Home Page](https://github.com/Vaida-Paul/trysomething/blob/main/Gifs/loading_auth_page.gif) | ![Chat View](https://via.placeholder.com/300x200?text=Chat+View) | ![Video Call](https://via.placeholder.com/300x200?text=Video+Call) |
+| ![Home Page](https://github.com/Vaida-Paul/trysomething/blob/main/Gifs/loading_auth_page.gif) | ![Chat View](https://github.com/Vaida-Paul/trysomething/blob/main/Gifs/loading_auth_page.gif) | ![Video Call](https://github.com/Vaida-Paul/trysomething/blob/main/Gifs/loading_auth_page.gif) |
 
 | Themes | Fonts | Settings |
 | :---: | :---: | :---: |
