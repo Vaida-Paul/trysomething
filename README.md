@@ -41,6 +41,16 @@ The goal was to create a seamless, beautiful, and fast experience – from typin
 
 ---
 
+| Auth | Settings |
+| :---: | :---: |
+| ![Home Page](https://github.com/Vaida-Paul/trysomething/blob/main/Gifs/loading_auth_page.gif) | ![Settings](https://github.com/Vaida-Paul/trysomething/blob/main/Gifs/settings.gif) |
+
+| Chat | Video Call |
+| :---: | :---: |
+| ![Chat Room](https://github.com/Vaida-Paul/trysomething/blob/main/Gifs/chat-page.gif) | ![Video Calling](https://github.com/Vaida-Paul/trysomething/blob/main/Gifs/video-call.gif) |
+
+---
+
 ## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/77cfa530-ad7f-4656-948a-942a8f97e560" /> Tech Stack
 
 ### Frontend
@@ -178,15 +188,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to register 
 * Use the pooled connection string as `DB_URL` (or `spring.datasource.url`) in the backend environment.
 * *Note: The backend automatically runs migrations on startup.*
 ## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/05e17cd6-96ce-4544-a5b8-653ad8b2e1a3" /> Screenshots
-
-
-| Loading | Chat | Video Call |
-| :---: | :---: | :---: |
-| ![Home Page](https://github.com/Vaida-Paul/trysomething/blob/main/Gifs/loading_auth_page.gif) | ![Chat View](https://github.com/Vaida-Paul/trysomething/blob/main/Gifs/loading_auth_page.gif) | ![Video Call](https://github.com/Vaida-Paul/trysomething/blob/main/Gifs/loading_auth_page.gif) |
-
-| Themes | Fonts | Settings |
-| :---: | :---: | :---: |
-| ![12 Themes](https://via.placeholder.com/300x200?text=12+Themes) | ![10 Fonts](https://via.placeholder.com/300x200?text=10+Fonts) | ![Settings](https://via.placeholder.com/300x200?text=Settings) |
 
 ---
 
