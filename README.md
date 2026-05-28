@@ -40,6 +40,7 @@ The goal was to create a seamless, beautiful, and fast experience – from typin
 | **Tech** | WebSockets (STOMP) for real‑time events, WebRTC for peer‑to‑peer media |
 
 ---
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/05e17cd6-96ce-4544-a5b8-653ad8b2e1a3" /> Gifs
 
 | Auth | Settings |
 | :---: | :---: |
@@ -187,8 +188,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to register 
 * Create a PostgreSQL database on Neon.
 * Use the pooled connection string as `DB_URL` (or `spring.datasource.url`) in the backend environment.
 * *Note: The backend automatically runs migrations on startup.*
-## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/05e17cd6-96ce-4544-a5b8-653ad8b2e1a3" /> Screenshots
-
 ---
 
 ## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/baf82ec3-f9a5-48e4-81a0-9fbe35557447" /> Contributing
